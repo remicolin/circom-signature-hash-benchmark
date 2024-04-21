@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@electron-labs/sha512": "https://github.com/Electron-Labs/sha512",
+    "circom-ecdsa": "https://github.com/0xPARC/circom-ecdsa",
+    "circom-rsa-verify": "https://github.com/zkp-application/circom-rsa-verify",
+    "circomlib": "^2.0.5",
+    "efficient-zk-ecdsa": "https://github.com/personaelabs/efficient-zk-ecdsa",
+    "sha1-circom": "https://github.com/dmpierre/sha1-circom"
+  }
+}
